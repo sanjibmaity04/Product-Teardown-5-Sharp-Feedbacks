@@ -26,6 +26,3 @@ subspace-teardown/
 ├── index.html    ← Full teardown (single file)
 └── README.md     ← This file
 ```
-
-## 🚀 Deploy
-This is a static site — works with GitHub Pages, Netlify, or Vercel instantly.
